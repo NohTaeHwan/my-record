@@ -10,4 +10,5 @@
 - [람다식1](https://github.com/NohTaeHwan/my-record/blob/master/java/lambda-1.md)
 - [예외(Exception)](https://github.com/NohTaeHwan/my-record/blob/master/java/exception.md)
 - [equals()와 ==의 차이는?](https://github.com/NohTaeHwan/my-record/blob/master/java/equals.md)
+- [함수 호출(call by reference , call by value)](https://github.com/NohTaeHwan/my-record/blob/master/java/call-by.md)
 
