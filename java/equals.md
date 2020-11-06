@@ -26,7 +26,7 @@
 ### 예시
 
 ```java
-				String a = new String("hello");
+	String a = new String("hello");
         String b = new String("hello");
         String c = "hello";
         String d = "hello";
