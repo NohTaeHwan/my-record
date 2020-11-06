@@ -6,8 +6,7 @@
 
 
 
-<img src="/Users/taehwan/Library/Application Support/typora-user-images/image-20200810153527295.png" alt="image-20200810153527295" style="zoom:40%;" />
-
+<img width="534" alt="스크린샷 2020-08-10 오후 3 35 17" src="https://user-images.githubusercontent.com/29722673/98330471-dd21b600-203d-11eb-958c-a1dbb2895412.png">
 
 
 - Call by value : 값을 인자로 넘겨받는 방식이다.  값을 넘겨받을 때 해당 값을 복사하여 그 복사된 값을 넘겨 받는 것이다. 위의 그림의 word를 넘겨받는다고 가정하면 word라는 변수 자체가 아니라 "abc"라는 값의 복사본을 넘겨받는다고 할 수 있다. Call by value는 값의 복사본이 이동하는 개념이기 때문에 기존의 변수값에는 아무런 변화가 없다. 기존 값이 변화로부터 안전하다는 장점이 있다. 그러나 복사본이 생기기 때문에 메모리를 더 사용해야 한다.
